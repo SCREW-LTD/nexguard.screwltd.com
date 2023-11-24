@@ -1,1 +1,5 @@
-{"current_base": "https://api.screwltd.com/" }
+{
+  "current_base": "https://api.screwltd.com/",
+  "version": "v2.5.2",
+  "download_url": "https://nexguard.screwltd.com/nexguard.zip"
+}
